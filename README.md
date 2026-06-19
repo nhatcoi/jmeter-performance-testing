@@ -1,10 +1,8 @@
 # 🚀 Báo Cáo Kiểm Thử Hiệu Năng API với Apache JMeter
 
-> **Sinh viên:** Nhat Coi  
-> **Email:** vnhat.dev@gmail.com  
+> **Sinh viên:** Nguyễn Văn Nhật 
+> **Email:** 23010887@st.phenikaa-uni.edu.vn
 > **Công cụ:** Apache JMeter 5.6.3  
-> **API được test:** [JSONPlaceholder](https://jsonplaceholder.typicode.com) — Fake REST API for testing  
-> **Ngày thực hiện:** 19/06/2026
 
 ---
 
