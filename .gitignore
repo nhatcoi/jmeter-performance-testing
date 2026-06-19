@@ -1,0 +1,23 @@
+# JMeter
+*.jtl
+*.log
+jmeter.log
+
+# Results (keep images, ignore raw data)
+results/*.csv
+results/*.xml
+results/*/html-report/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
